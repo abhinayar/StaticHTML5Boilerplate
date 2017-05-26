@@ -1,15 +1,15 @@
 /* 
-Website CSS 
+Static HTML5 Site Boilerplate
 By Abhi Nayar
+MIT Licence
 https://linkedin.com/in/abhinayar
 Any questions feel free to message me^.
 
 Fonts:
-  Rubik
   Roboto
 
 Colors:
-
+  Your color library
 */
 
 /* Generic Template Styles */
@@ -49,14 +49,14 @@ Colors:
   background-size: cover;
 } .bg-contain {
   background-size: contain;
-} bg-no-repeat {
+} .bg-no-repeat {
   background-repeat: no-repeat;
 }
 
-/* Mobile First Media Queries */
-@media (min-width: 0px) {
-  
-} @media (min-width: 320px) {
+/* Code your site for min-width: 0px first */
+
+/* Now add mobile-first CSS */
+@media (min-width: 320px) {
   
 } @media (min-width: 540px) {
   
