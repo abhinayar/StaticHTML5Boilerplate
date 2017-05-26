@@ -6,6 +6,7 @@ Got sick of rewriting or pulling this code over and over again.
 Just clone, edit and push - Static site.
 
 Includes NO default theme as the idea is write and go.
+MIT License. Whatever you want! It's github.
 
 
 ## How to use this?
