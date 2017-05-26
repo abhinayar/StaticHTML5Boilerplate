@@ -21,7 +21,6 @@ MIT License. Whatever you want! It's github.
 1. Modernizr CDN and local fallback `https://modernizr.com/`
 1. Google Analytics Code `http://analytics.google.com/`
 1. NormalizeCSS CDN and local fallback `https://necolas.github.io/normalize.css/`
-1. Modernizr CDN and local fallback `https://modernizr.com/`
 1. Roboto (light, medium, bold) font from Google Fonts `http://fonts.google.com/`
 1. Compatibility => HTML5Shim, lt-ie-9, es5-shim, es5-sham (local)
 1. Console Shim for non console browsers (local)
