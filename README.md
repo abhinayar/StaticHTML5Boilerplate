@@ -10,7 +10,7 @@ Includes NO default theme as the idea is write and go.
 
 ## How to use this?
 1. Clone this repository `git clone https://github.com/abhinayar/StaticHTML5Boilerplate`
-1. Edit index.html, /static/css/pages/index.css, /static/js/main.js
+1. Edit index.html, /public/css/pages/index.css, /public/js/main.js
 1. Push to a github repository and follow instructions here `https://pages.github.com/`
 
 ## What does it include?
